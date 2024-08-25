@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bday-surprise/static/css/main.f77cfa1b.css",
-    "main.js": "/bday-surprise/static/js/main.707d0ba5.js",
+    "main.css": "/bday-surprise/static/css/main.9b27030c.css",
+    "main.js": "/bday-surprise/static/js/main.ca165e4a.js",
     "reactPlayerYouTube.js": "/bday-surprise/static/js/reactPlayerYouTube.d3bae3cc.chunk.js",
     "reactPlayerSoundCloud.js": "/bday-surprise/static/js/reactPlayerSoundCloud.b2d359a3.chunk.js",
     "reactPlayerVimeo.js": "/bday-surprise/static/js/reactPlayerVimeo.50a02aa9.chunk.js",
@@ -18,8 +18,8 @@
     "reactPlayerPreview.js": "/bday-surprise/static/js/reactPlayerPreview.d86a848d.chunk.js",
     "static/js/453.80e198c4.chunk.js": "/bday-surprise/static/js/453.80e198c4.chunk.js",
     "index.html": "/bday-surprise/index.html",
-    "main.f77cfa1b.css.map": "/bday-surprise/static/css/main.f77cfa1b.css.map",
-    "main.707d0ba5.js.map": "/bday-surprise/static/js/main.707d0ba5.js.map",
+    "main.9b27030c.css.map": "/bday-surprise/static/css/main.9b27030c.css.map",
+    "main.ca165e4a.js.map": "/bday-surprise/static/js/main.ca165e4a.js.map",
     "reactPlayerYouTube.d3bae3cc.chunk.js.map": "/bday-surprise/static/js/reactPlayerYouTube.d3bae3cc.chunk.js.map",
     "reactPlayerSoundCloud.b2d359a3.chunk.js.map": "/bday-surprise/static/js/reactPlayerSoundCloud.b2d359a3.chunk.js.map",
     "reactPlayerVimeo.50a02aa9.chunk.js.map": "/bday-surprise/static/js/reactPlayerVimeo.50a02aa9.chunk.js.map",
@@ -37,7 +37,7 @@
     "453.80e198c4.chunk.js.map": "/bday-surprise/static/js/453.80e198c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f77cfa1b.css",
-    "static/js/main.707d0ba5.js"
+    "static/css/main.9b27030c.css",
+    "static/js/main.ca165e4a.js"
   ]
 }
