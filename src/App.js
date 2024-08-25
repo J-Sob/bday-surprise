@@ -8,7 +8,7 @@ function App() {
     <Router>
       <div className="App"
       style={{
-        backgroundImage: 'url(/background.jpg)'
+        backgroundImage: 'url(./background.jpg)'
       }}>
         <Routes>
           <Route path="/" element={<Home/>} />

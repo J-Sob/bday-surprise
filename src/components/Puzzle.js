@@ -71,7 +71,7 @@ const Puzzle = () => {
             className={`tile ${tile === emptyTile ? 'empty' : ''} ${isWon ? 'won' : ''}`}
             onClick={() => moveTile(index)}
             style={{
-              backgroundImage: tile !== emptyTile ? 'url(/puzzle.jpg)' : 'none',
+              backgroundImage: tile !== emptyTile ? 'url(./puzzle.jpg)' : 'none',
               backgroundPosition: `${(tile % size) * 100}% ${(Math.floor(tile / size)) * 100}%`
             }}
           >
