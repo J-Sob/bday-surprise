@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/bday-surprise/static/css/main.9b27030c.css",
+    "main.js": "/bday-surprise/static/js/main.8a46d50a.js",
+    "reactPlayerYouTube.js": "/bday-surprise/static/js/reactPlayerYouTube.d3bae3cc.chunk.js",
+    "reactPlayerSoundCloud.js": "/bday-surprise/static/js/reactPlayerSoundCloud.b2d359a3.chunk.js",
+    "reactPlayerVimeo.js": "/bday-surprise/static/js/reactPlayerVimeo.50a02aa9.chunk.js",
+    "reactPlayerMux.js": "/bday-surprise/static/js/reactPlayerMux.9c6e6566.chunk.js",
+    "reactPlayerFacebook.js": "/bday-surprise/static/js/reactPlayerFacebook.d0efc7eb.chunk.js",
+    "reactPlayerStreamable.js": "/bday-surprise/static/js/reactPlayerStreamable.81688f60.chunk.js",
+    "reactPlayerWistia.js": "/bday-surprise/static/js/reactPlayerWistia.9765c44e.chunk.js",
+    "reactPlayerTwitch.js": "/bday-surprise/static/js/reactPlayerTwitch.a26d65f3.chunk.js",
+    "reactPlayerDailyMotion.js": "/bday-surprise/static/js/reactPlayerDailyMotion.357be041.chunk.js",
+    "reactPlayerMixcloud.js": "/bday-surprise/static/js/reactPlayerMixcloud.385e1bb9.chunk.js",
+    "reactPlayerVidyard.js": "/bday-surprise/static/js/reactPlayerVidyard.16055b5b.chunk.js",
+    "reactPlayerKaltura.js": "/bday-surprise/static/js/reactPlayerKaltura.be9b3293.chunk.js",
+    "reactPlayerFilePlayer.js": "/bday-surprise/static/js/reactPlayerFilePlayer.b30c79e1.chunk.js",
+    "reactPlayerPreview.js": "/bday-surprise/static/js/reactPlayerPreview.d86a848d.chunk.js",
+    "static/js/453.80e198c4.chunk.js": "/bday-surprise/static/js/453.80e198c4.chunk.js",
+    "index.html": "/bday-surprise/index.html",
+    "main.9b27030c.css.map": "/bday-surprise/static/css/main.9b27030c.css.map",
+    "main.8a46d50a.js.map": "/bday-surprise/static/js/main.8a46d50a.js.map",
+    "reactPlayerYouTube.d3bae3cc.chunk.js.map": "/bday-surprise/static/js/reactPlayerYouTube.d3bae3cc.chunk.js.map",
+    "reactPlayerSoundCloud.b2d359a3.chunk.js.map": "/bday-surprise/static/js/reactPlayerSoundCloud.b2d359a3.chunk.js.map",
+    "reactPlayerVimeo.50a02aa9.chunk.js.map": "/bday-surprise/static/js/reactPlayerVimeo.50a02aa9.chunk.js.map",
+    "reactPlayerMux.9c6e6566.chunk.js.map": "/bday-surprise/static/js/reactPlayerMux.9c6e6566.chunk.js.map",
+    "reactPlayerFacebook.d0efc7eb.chunk.js.map": "/bday-surprise/static/js/reactPlayerFacebook.d0efc7eb.chunk.js.map",
+    "reactPlayerStreamable.81688f60.chunk.js.map": "/bday-surprise/static/js/reactPlayerStreamable.81688f60.chunk.js.map",
+    "reactPlayerWistia.9765c44e.chunk.js.map": "/bday-surprise/static/js/reactPlayerWistia.9765c44e.chunk.js.map",
+    "reactPlayerTwitch.a26d65f3.chunk.js.map": "/bday-surprise/static/js/reactPlayerTwitch.a26d65f3.chunk.js.map",
+    "reactPlayerDailyMotion.357be041.chunk.js.map": "/bday-surprise/static/js/reactPlayerDailyMotion.357be041.chunk.js.map",
+    "reactPlayerMixcloud.385e1bb9.chunk.js.map": "/bday-surprise/static/js/reactPlayerMixcloud.385e1bb9.chunk.js.map",
+    "reactPlayerVidyard.16055b5b.chunk.js.map": "/bday-surprise/static/js/reactPlayerVidyard.16055b5b.chunk.js.map",
+    "reactPlayerKaltura.be9b3293.chunk.js.map": "/bday-surprise/static/js/reactPlayerKaltura.be9b3293.chunk.js.map",
+    "reactPlayerFilePlayer.b30c79e1.chunk.js.map": "/bday-surprise/static/js/reactPlayerFilePlayer.b30c79e1.chunk.js.map",
+    "reactPlayerPreview.d86a848d.chunk.js.map": "/bday-surprise/static/js/reactPlayerPreview.d86a848d.chunk.js.map",
+    "453.80e198c4.chunk.js.map": "/bday-surprise/static/js/453.80e198c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b27030c.css",
+    "static/js/main.8a46d50a.js"
+  ]
+}
