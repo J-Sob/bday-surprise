@@ -72,7 +72,7 @@ const Puzzle = () => {
             onClick={() => moveTile(index)}
             style={{
               backgroundImage: tile !== emptyTile ? 'url(./puzzle300x300.jpg)' : 'none',
-              backgroundPosition: `${(tile % size) * 100}% ${(Math.floor(tile / size)) * 100}%`
+              backgroundPosition: `${(tile % size) * 100}px ${(Math.floor(tile / size)) * 100}px`
             }}
           >
           </div>
