@@ -17,7 +17,7 @@ const Puzzle = () => {
 
   const resetGame = () => {
     const initialTiles = Array.from({ length: totalTiles }, (_, i) => i);
-    setTiles(shuffle(initialTiles));
+    setTiles(initialTiles);
     setIsWon(false);
   };
 
