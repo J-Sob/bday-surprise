@@ -17,12 +17,8 @@ const Puzzle = () => {
 
   const resetGame = () => {
     const initialTiles = Array.from({ length: totalTiles }, (_, i) => i);
-    setTiles(initialTiles);
+    setTiles(shuffle(initialTiles));
     setIsWon(false);
-  };
-
-  const solved = () => {
-    setIsWon(true);
   };
 
   const shuffle = (array) => {
@@ -80,7 +76,6 @@ const Puzzle = () => {
       </div>
       <WinDialog isOpen={openDialog} />
       <button className="restart-button" onClick={resetGame}>Restart</button>
-      {/* <button className="restart-button" onClick={finishGame}>Solved</button> */}
     </div>
   );
 };
