@@ -16,7 +16,7 @@ const WinDialog = ({ isOpen }) => {
             Otwórz prezent
           </button>
         )}
-        {showVideo && (<ReactPlayer url='./skolim.mp4' />)}
+        {showVideo && (<ReactPlayer url='https://streamable.com/krizfw' />)}
       </div>
     </div>
   );
