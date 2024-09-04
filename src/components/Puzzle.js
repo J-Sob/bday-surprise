@@ -76,6 +76,7 @@ const Puzzle = () => {
       </div>
       <WinDialog isOpen={openDialog} />
       <button className="restart-button" onClick={resetGame}>Restart</button>
+      <button className="restart-button" onClick={finishGame}>Win</button>
     </div>
   );
 };
